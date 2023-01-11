@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Rafaellauersdorf/Rafaellauersdorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá! EU sou o Rafael Lauersdorf
 
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Estudando HTML5, CSS3, Git e GitHub
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Contate-me no E-Mail: rafaellauersdorf007@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
