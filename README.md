@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Front-End
 #
-- ⚙️ Tecnologias que estou Estudando: 
+- ⚙️ languages and tools work/study:: 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
           
           
@@ -11,7 +11,9 @@
           
           
 
-- 📫 Contate-me no E-Mail: rafaellauersdorf007@gmail.com
+- 📫 Contact me on Email: rafaellauersdorf007@gmail.com
+or: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-lauersdorf-314825205/)](https://www.linkedin.com/in/rafael-lauersdorf-314825205/)
+[![Instagram Badge](https://img.shields.io/badge/-@rafael.lauersdorf-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/rafael.lauersdorf/)](https://www.instagram.com/rafael.lauersdorf/)
 
 #
 
@@ -19,8 +21,7 @@
 
  ##
   
-  <a href="https://www.instagram.com/rafael.lauersdorf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-lauersdorf-314825205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   
 <div>
 <a href="https://github.com/Rafaellauersdorf">
