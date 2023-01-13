@@ -28,3 +28,5 @@ or: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafaellauersdorf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
+![](https://komarev.com/ghpvc/?username=Rafaellauersdorf&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/Rafaellauersdorf/Rafaellauersdorf?color=black&logo=github&style=flat-square)
