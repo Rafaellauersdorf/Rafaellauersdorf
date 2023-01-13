@@ -1,6 +1,6 @@
-### Olá! EU sou o Rafael Lauersdorf
+### Hi! I'm Rafael Lauersdorf!
 
-- 🔭 Atualmente trabalho com Front-End
+- 🔭 I currently work on the Front-end
 #
 - ⚙️ languages and tools work/study:: 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
