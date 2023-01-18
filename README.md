@@ -23,17 +23,13 @@ or: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo
 
  ##
   
-<p>
-<a href="https://github.com/Rafaellauersdorf">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafaellauersdorf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
- 
-<p> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafaellauersdorf&theme=dracula" alt="Gift's LangStat" width="455px"/>
-</p>
- 
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafaellauersdorf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaellauersdorf&hide=TeX&layout=compact)
+
+
   
 
- 
+![](https://visitor-badge.laobi.icu/badge?page_id=Rafaellauersdorf.Rafaellauersdorf) 
 ![](https://komarev.com/ghpvc/?username=Rafaellauersdorf&style=flat-square&label=Views)
 ![](https://badges.pufler.dev/visits/Rafaellauersdorf/Rafaellauersdorf?color=black&logo=github&style=flat-square)
