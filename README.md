@@ -18,7 +18,7 @@ I'm looking for a backend programmer position!
 - 📂 Projects: 
 
 <div align="left">
-  **Conversor de Medidas:** Um programa em Python que foi criado para converter medidas dos imóveis manipulados no setor de Patrimônio. 
+ 📏 Conversor de Medidas: Um programa em Python que foi criado para converter medidas dos imóveis manipulados no setor de Patrimônio. 
   <a href="https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git">
     <img src="https://img.shields.io/badge/Conversor%20de%20Medidas-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
   </a>
