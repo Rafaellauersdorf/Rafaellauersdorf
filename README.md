@@ -21,13 +21,7 @@ I'm looking for a backend programmer position!
   <a href="https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git">
     <img src="https://img.shields.io/badge/Conversor%20de%20Medidas-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
   </a>
-   Um programa em Python que foi criado para converter medidas dos imóveis manipulados no setor de Patrimônio. 
-</div>
-<div align="left">
-  <a href="https://github.com/Rafaellauersdorf/Projeto-Automa-o-Requerimentos-emDocx.git">
-    <img src="https://img.shields.io/badge/Projeto%20Automa%C3%A7%C3%A3o%20Requerimentos-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-  </a>
-   Um programa em Python que foi criado para automatizar o preenchimento de documentos docx. 
+   A Python program that was created to convert measurements of properties manipulated in the Heritage sector. 
 </div>
 
 
