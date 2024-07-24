@@ -1,6 +1,15 @@
-### Hi! I'm Rafael Lauersdorf!
+### Hi! I'm Rafael Lauersdorf!✨
 
-- 🔭 I currently work on the Back-end
+
+## About me 👨‍💻
+
+Developer passionate about technology and innovation. 🚀 I constantly seek to improve my skills and learn new technologies.
+Professional with more than 15 years of expertise in administration. Junior knowledge in developing automation projects in Python to optimize processes, increase efficiency and contribute to the success of the organization. 
+Currently, I lead automation projects in the heritage sector of IAT, a state agency, using Python to manage real estate routines and looking for new challenges to improve my skills in technology and management.
+
+I'm looking for a backend programmer position!
+
+
 #
 - 👨‍💻🛠 languages and tools work/study:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
