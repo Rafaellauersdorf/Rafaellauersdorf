@@ -3,7 +3,7 @@
 - 🔭 I currently work on the Back-end
 #
 - 👨‍💻🛠 languages and tools work/study:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
           
           
           
@@ -12,8 +12,8 @@
 #          
 
 - 📫 Contact me on Email: rafaellauersdorf007@gmail.com
-or: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-lauersdorf-314825205/)](https://www.linkedin.com/in/rafael-lauersdorf-314825205/)
-[![Instagram Badge](https://img.shields.io/badge/-@rafael.lauersdorf-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/rafael.lauersdorf/)](https://www.instagram.com/rafael.lauersdorf/)
+or: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rafael-fdv-314825205/)]((https://br.linkedin.com/in/rafael-fdv-314825205)/)
+[![Instagram Badge](https://img.shields.io/badge/-@rafael.lauersdorf-purple?style=flat&logo=instagram&logoColor=white&link=[https://www.instagram.com/rafael.lauersdorf](https://www.instagram.com/rafael.007l/)](https://www.instagram.com/rafael.007l/)
 
 #
 
