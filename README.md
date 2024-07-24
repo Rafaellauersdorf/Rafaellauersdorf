@@ -17,9 +17,12 @@ I'm looking for a backend programmer position!
 #
 - 📂 Projects: 
 
-**Conversor de Medidas:** Um programa em Python que foi criado para converter medidas dos imóveis manipulados no setor de Patrimônio. ([https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git](https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git))
-**Jogo da Velha:** Uma implementação do clássico jogo da velha em Python. ([https://github.com/seu-usuario/jogo-da-velha](https://github.com/seu-usuario/jogo-da-velha))
-**App de Receitas:** Um aplicativo mobile para encontrar e salvar receitas. ([https://github.com/seu-usuario/app-de-receitas](https://github.com/seu-usuario/app-de-receitas))
+<div align="left">
+  <a href="https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+  **Conversor de Medidas:** Um programa em Python que foi criado para converter medidas dos imóveis manipulados no setor de Patrimônio. 
+</div>
 
 
            
