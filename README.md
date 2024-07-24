@@ -12,7 +12,7 @@
 #          
 
 - 📫 Contact me on Email: rafaellauersdorf007@gmail.com
-or: [![LinkedIn of RAFAEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fdv-314825205)
+or: [![LinkedIn RAFAEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fdv-314825205)
 
 
 #
