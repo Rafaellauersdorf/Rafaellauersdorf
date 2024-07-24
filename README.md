@@ -23,6 +23,12 @@ I'm looking for a backend programmer position!
   </a>
    A Python program that was created to convert measurements of properties manipulated in the Heritage sector. 
 </div>
+<div align="left">
+  <a href="https://github.com/Rafaellauersdorf/Analisador-de-numeros.git">
+    <img src="https://img.shields.io/badge/Analisador%20de%20N%C3%BAmeros-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+   Um programa em Python que foi criado para analisar uma lista de números e exibir informações estatísticas. 
+</div>
 
 
            
