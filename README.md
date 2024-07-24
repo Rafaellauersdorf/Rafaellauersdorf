@@ -39,7 +39,7 @@ I'm looking for a backend programmer position!
 <strong>or:</strong> [![Rafael LinkedIn](https://img.shields.io/badge/Rafael%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fdv-314825205)
 
 
-## Stats
+## Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafaellauersdorf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")
 
 ![](https://streak-stats.demolab.com/?user=Rafaellauersdorf&theme=dracula)
