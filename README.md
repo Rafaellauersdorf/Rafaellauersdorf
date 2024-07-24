@@ -41,7 +41,7 @@ I'm looking for a backend programmer position!
 
 ## Stats
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafaellauersdorf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaellauersdorf&theme=dracula&hide=TeX&layout=compact)
+
 ![](https://streak-stats.demolab.com/?user=Rafaellauersdorf&theme=dracula)
 
 #
