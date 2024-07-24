@@ -7,7 +7,7 @@ Developer passionate about technology and innovation. 🚀 I constantly seek to 
 Professional with more than 15 years of expertise in administration. Junior knowledge in developing automation projects in Python to optimize processes, increase efficiency and contribute to the success of the organization. 
 Currently, I lead automation projects in the heritage sector of IAT, a state agency, using Python to manage real estate routines and looking for new challenges to improve my skills in technology and management.
 
-I'm looking for a backend programmer position!
+<strong>I'm looking for a backend programmer position!</strong>
 
 
 #
