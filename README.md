@@ -1,4 +1,4 @@
-## Hi! I'm Rafael Lauersdorf!✨
+## Hi! I'm Rafael Lauersdorf Souza!✨
 
 
 ### About me 👨‍💻
