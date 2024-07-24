@@ -12,7 +12,8 @@
 #          
 
 - 📫 Contact me on Email: rafaellauersdorf007@gmail.com
-or: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rafael-fdv-314825205/)]((https://br.linkedin.com/in/rafael-fdv-314825205)/)
+or: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fdv-314825205)
+
 
 #
 
