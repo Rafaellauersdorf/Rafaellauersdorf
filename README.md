@@ -13,7 +13,6 @@
 
 - 📫 Contact me on Email: rafaellauersdorf007@gmail.com
 or: [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rafael-fdv-314825205/)]((https://br.linkedin.com/in/rafael-fdv-314825205)/)
-[![Instagram Badge](https://img.shields.io/badge/-@rafael.lauersdorf-purple?style=flat&logo=instagram&logoColor=white&link=[https://www.instagram.com/rafael.lauersdorf](https://www.instagram.com/rafael.007l/)](https://www.instagram.com/rafael.007l/)
 
 #
 
