@@ -44,10 +44,6 @@ I'm looking for a backend programmer position!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaellauersdorf&theme=dracula&hide=TeX&layout=compact)
 ![](https://streak-stats.demolab.com/?user=Rafaellauersdorf&theme=dracula)
 
-## Trophy 
-
-![](https://github-profile-trophy.vercel.app/?username=Rafaellauersdorf&theme=onedark)
-
 #
  
 ![](https://komarev.com/ghpvc/?username=Rafaellauersdorf&style=flat-square&label=Views)
