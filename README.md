@@ -1,7 +1,7 @@
 ## Hi! I'm Rafael Lauersdorf!✨
 
 
-## About me 👨‍💻
+### About me 👨‍💻
 
 Developer passionate about technology and innovation. 🚀 I constantly seek to improve my skills and learn new technologies.
 Professional with more than 15 years of expertise in administration. Junior knowledge in developing automation projects in Python to optimize processes, increase efficiency and contribute to the success of the organization. 
