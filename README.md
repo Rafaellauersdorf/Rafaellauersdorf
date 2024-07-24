@@ -14,7 +14,13 @@ I'm looking for a backend programmer position!
 - 👨‍💻🛠 languages and tools work/study:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
           
-          
+#
+- 📂 Projects: 
+
+**Conversor de Medidas:** Um programa em Python que foi criado para converter medidas dos imóveis manipulados no setor de Patrimônio. ([https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git](https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git))
+**Jogo da Velha:** Uma implementação do clássico jogo da velha em Python. ([https://github.com/seu-usuario/jogo-da-velha](https://github.com/seu-usuario/jogo-da-velha))
+**App de Receitas:** Um aplicativo mobile para encontrar e salvar receitas. ([https://github.com/seu-usuario/app-de-receitas](https://github.com/seu-usuario/app-de-receitas))
+
 
            
          
