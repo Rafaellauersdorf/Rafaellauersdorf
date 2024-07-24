@@ -35,14 +35,8 @@ I'm looking for a backend programmer position!
          
 #          
 
-- 📫 Contact me on Email: rafaellauersdorf007@gmail.com
-or: [![Rafael LinkedIn](https://img.shields.io/badge/Rafael%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fdv-314825205)
-
-
-
-#
-
-😄 Pronouns: ele/dele
+- 📫<strong> Contact me on Email:</strong> rafaellauersdorf007@gmail.com
+<strong>or:</strong> [![Rafael LinkedIn](https://img.shields.io/badge/Rafael%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fdv-314825205)
 
 
 ## Stats
