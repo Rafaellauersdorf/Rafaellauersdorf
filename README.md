@@ -27,7 +27,7 @@ Currently, I lead automation projects in the heritage sector of IAT, a state age
   <a href="https://github.com/Rafaellauersdorf/GERENCIADOR-DE-REQUERIMENTOS-AOS-CART-RIOS">
     <img src="https://img.shields.io/badge/Programa%20Modelo%20Requerimentos-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
   </a>
-   A JavaScript program that was created to analyze a list of numbers and display statistical information. 
+   This Python program aims to drastically optimize requests for endorsement and registration of properties to notary offices. 
 </div>
 
 
