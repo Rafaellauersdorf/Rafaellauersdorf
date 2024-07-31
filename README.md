@@ -17,21 +17,20 @@ Currently, I lead automation projects in the heritage sector of IAT, a state age
 #
 <h3>📂<strong> Projects:</strong></h3>
 
-<div align="left">
-  <a href="https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git">
-    <img src="https://img.shields.io/badge/Conversor%20de%20Medidas-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-  </a>
-   A Python program that was created to convert measurements of properties manipulated in the Heritage sector. 
-</div>
+
 <div align="left">
   <a href="https://github.com/Rafaellauersdorf/GERENCIADOR-DE-REQUERIMENTOS-AOS-CART-RIOS">
     <img src="https://img.shields.io/badge/Programa%20Modelo%20Requerimentos-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
   </a>
    This Python program aims to drastically optimize requests for endorsement and registration of properties to notary offices. 
 </div>
-
-
-           
+<div align="left">
+  <a href="https://github.com/Rafaellauersdorf/Conversor-de-Medidas-para-Im-veis.git">
+    <img src="https://img.shields.io/badge/Conversor%20de%20Medidas-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+   A Python program that was created to convert measurements of properties manipulated in the Heritage sector. 
+</div>
+         
          
 #          
 
