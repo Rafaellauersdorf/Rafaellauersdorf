@@ -35,7 +35,7 @@ Currently, I lead automation projects in the heritage sector of IAT, a state age
 #          
 
 - 📫<strong> Contact me on Email:</strong> rafaellauersdorf007@gmail.com
-<strong>or:</strong> [![Rafael LinkedIn](https://img.shields.io/badge/Rafael%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fdv-314825205)
+<strong>or:</strong> [![Rafael LinkedIn](https://img.shields.io/badge/Rafael%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-souza-314825205)
 
 
 ## Stats:
